@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 ----
-[![Doctor_Yin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctor-Yin&show_icons=true&theme=tokyonight)
+![Doctor_Yin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctor-Yin&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-Yin&layout=compact&theme=tokyonight)](https://github.com/Karlatemp)
 <!---
